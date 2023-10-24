@@ -1,4 +1,6 @@
 # AI205 : RESET CONTENT
+- 소개 영상 : http://youtube.com/watch?v=-jZ3A7CChKc&feature=youtu.be
+
 ![Game Title Image](https://github.com/moqoru/AI205_RESET_CONTENT/assets/41889197/98a5b423-5438-420b-bb72-087d7b41d035)
 
 ![Concept Art](https://github.com/moqoru/AI205_RESET_CONTENT/assets/41889197/dc1573e3-80ca-43f2-813d-76d1c27269a1)
